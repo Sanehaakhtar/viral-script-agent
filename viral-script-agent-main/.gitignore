@@ -50,4 +50,4 @@ wheels/
 Thumbs.db
 
 # Documentation (if you want to track these, remove this line)
-*.md
+# *.md
